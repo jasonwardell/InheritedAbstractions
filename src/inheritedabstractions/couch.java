@@ -1,7 +1,7 @@
-
 package inheritedabstractions;
 
+public class couch implements Furniture {
 
-public class couch extends Furniture{
-    
+      String color = "black";
+
 }
